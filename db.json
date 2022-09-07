@@ -1,8 +1,46 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "description": "this is description 1" },
-    { "id": 2, "title": "Post 2", "description": "this is description 2" },
-    { "id": 3, "title": "Post 3", "description": "this is description 3" }
+    {
+      "img": "https://links.papareact.com/5j2",
+      "location": "Nairobi",
+      "distance": "45-minutes drive"
+    }
+    {
+      "img": "https://links.papareact.com/1to",
+      "location": "Goma",
+      "distance": "8-hour drive"
+    }
+    {
+      "img": "https://links.papareact.com/40m",
+      "location": "Kigali",
+      "distance": "1.5-hour drive"
+    }
+    {
+      "img": "https://links.papareact.com/41m",
+      "location": "Kinshasa",
+      "distance": "6-hour drive"
+    }
+    {
+      "img": "https://links.papareact.com/kji",
+      "location": "Bukavu",
+      "distance": "4-hour drive"
+    }
+    {
+      "img": "https://links.papareact.com/msp",
+      "location": "Gisenyi",
+      "distance": "3.5-hour drive"
+       }
+    {
+      "img": "https://links.papareact.com/2k3",
+      "location": "Mombassa",
+      "distance": "1-hour drive"
+    }
+    {
+      "img": "https://links.papareact.com/ynx",
+      "location": "Kampala",
+      "distance": "2.5-hour drive"
+    }
+
   ],
   "comments": [
     { "id": 1, "body": "comment 1", "postId": 1 },
