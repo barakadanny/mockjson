@@ -40,5 +40,8 @@
       "location": "Kampala",
       "distance": "2.5-hour drive"
     }
-  ]
+  ],
+  "profile": {
+      "name": "profile 1"
+    }
 }
